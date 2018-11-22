@@ -1,5 +1,5 @@
 export interface Brand {
-  brandId?: number;
+  brandId?: number; /* marcos sande commit test, please ignore */
   brandName: string;
   logo?: string;
   isVisible: boolean;
